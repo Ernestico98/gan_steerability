@@ -16,7 +16,7 @@ On the "steerability" of generative adversarial networks.\
 2. [Visualizations](#visualizations) - plotting image panels, videos, and distributions<br>
 3. [Training](#training) - pipeline for training your own walks<br>
 4. [Notebooks](#notebooks) - some jupyter notebooks, good place to start for trying your own transformations<br>
-5. [PyTorch](#pytorch) - pytorch implementation in a colab notebook<br>
+5. [PyTorch/Colab Demo](#pytorch) - pytorch implementation in a colab notebook<br>
 
 <a name="setup"/>
 
