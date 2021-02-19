@@ -23,7 +23,7 @@ git clone https://github.com/alexlee-gk/lpips-tensorflow.git
 mv ./lpips-tensorflow $dir
 
 # pgan model
-git clone git@github.com:tkarras/progressive_growing_of_gans.git
+git clone https://github.com/tkarras/progressive_growing_of_gans.git
 mv ./progressive_growing_of_gans $dir
 
 # download the pgan pretrained models
